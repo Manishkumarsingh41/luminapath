@@ -42,18 +42,13 @@
 
 **Status:** ✅ **COMPLETE**
 
----
-
-### ✅ Part 5: PDF Generator
-- [x] Creates professional medical PDFs
-- [x] Includes patient info, scan image, and AI explanation
-- [x] No technical jargon visible to patient
+--
 
 **Status:** ✅ **COMPLETE**
 
 ---
 
-### ✅ Part 6: Email Sender
+### ✅ Part 5: Email Sender
 - [x] Sends PDFs to patients via Gmail
 - [x] SendGrid backup option
 - [x] Works reliably
