@@ -409,7 +409,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For questions or support, please contact: [your.email@example.com]
+For questions or support, please contact: [singhmanishofficial102@gmail.com]
 
 ---
 
