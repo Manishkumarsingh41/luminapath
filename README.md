@@ -270,16 +270,27 @@ Frontend will run at: `http://localhost:8501`
 
 ## 📸 Screenshots
 
-> Add screenshots of your application here
+Below are some preview screenshots showcasing LuminaPath's interface and report design.
 
-### Home Screen
-![Home Screen](screenshots/home.png)
+---
 
-### Report Generation
-![Report Generation](screenshots/report.png)
+## 🏠 Home Screen (Header Section)
 
-### Generated PDF
-![PDF Sample](screenshots/pdf_sample.png)
+<img src="https://github.com/Manishkumarsingh41/luminapath/blob/main/static/uploaded_images/WhatsApp%20Image%202025-11-23%20at%2020.47.36_127d3612.jpg" alt="Home Screen" width="750"/>
+
+---
+
+## 🔍 Analysis Screen (Middle Section)
+
+<img src="https://github.com/Manishkumarsingh41/luminapath/blob/main/static/uploaded_images/WhatsApp%20Image%202025-11-23%20at%2020.47.52_1b2b9938.jpg" alt="Analysis Screen" width="750"/>
+
+---
+
+## 🧾 Generated Report (Bottom Section)
+
+<img src="https://github.com/Manishkumarsingh41/luminapath/blob/main/static/uploaded_images/WhatsApp%20Image%202025-11-23%20at%2020.48.20_5cc0a3e6.jpg" alt="Generated Report" width="750"/>
+
+---
 
 ---
 
@@ -368,7 +379,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Credits
 
-**Developed by:** [Your Name]
+**Developed by:**(https://github.com/Manishkumarsingh41)
 
 **Technologies Used:**
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern web framework
