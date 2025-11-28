@@ -6,7 +6,7 @@ LuminaPath analyzes retinal scans using AI and creates professional medical repo
 
 ---
 
-## ✨ What It DoesDoes
+## ✨ What It Does
 
 - 🔬 **Scan Analysis** - Automatically detects eye diseases from OCT scans
 - 🤖 **AI Explanations** - Plain-English medical insights powered by Google Gemini
